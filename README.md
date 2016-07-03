@@ -12,3 +12,4 @@ An exercise teaching how to use the IBM Cloud
 Format: 
 - Lightining talk
 - App with deploy button in GitHub 
+- Additional materials
